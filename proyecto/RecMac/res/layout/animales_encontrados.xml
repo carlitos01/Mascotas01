@@ -44,4 +44,14 @@
         android:text="Animales Encontrados"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ImageButton01"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="86dp"
+        android:text="Regresar" />
+
 </RelativeLayout>

@@ -1101,6 +1101,12 @@ containing a value of this type.
         public static final int dialog=0x7f05000e;
         public static final int disableHome=0x7f050008;
         public static final int dropdown=0x7f05000f;
+        public static final int editText1=0x7f050054;
+        public static final int editText2=0x7f050056;
+        public static final int editText3=0x7f050055;
+        public static final int editText4=0x7f050057;
+        public static final int editText5=0x7f050058;
+        public static final int editText6=0x7f050059;
         public static final int edit_query=0x7f050030;
         public static final int end=0x7f050013;
         public static final int expand_activities_button=0x7f050026;
@@ -1214,7 +1220,9 @@ containing a value of this type.
         public static final int animales_perdidos=0x7f03001a;
         public static final int perfil_mascota=0x7f03001b;
         public static final int perfil_usuario=0x7f03001c;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001d;
+        public static final int reporte_enontrados=0x7f03001d;
+        public static final int reporte_persona_encon=0x7f03001e;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001f;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 

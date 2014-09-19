@@ -33,16 +33,6 @@
         android:layout_marginTop="42dp"
         android:text="Correo :" />
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignRight="@+id/imageButton1"
-        android:layout_below="@+id/textView5"
-        android:layout_marginRight="23dp"
-        android:layout_marginTop="54dp"
-        android:text="Siguiente" />
-
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
@@ -95,5 +85,15 @@
         android:layout_alignLeft="@+id/textView1"
         android:layout_centerVertical="true"
         android:text="Nombre :" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="26dp"
+        android:layout_marginRight="16dp"
+        android:text="Siguiente" />
 
 </RelativeLayout>

@@ -1074,10 +1074,10 @@ containing a value of this type.
         public static final int usuario=0x7f02005a;
     }
     public static final class id {
-        public static final int ImageButton01=0x7f050042;
-        public static final int ImageButton02=0x7f050044;
-        public static final int ImageButton03=0x7f050041;
-        public static final int RelativeLayout1=0x7f050040;
+        public static final int ImageButton01=0x7f050040;
+        public static final int ImageButton02=0x7f050042;
+        public static final int ImageButton03=0x7f05003e;
+        public static final int RelativeLayout1=0x7f050044;
         public static final int action_bar=0x7f05001c;
         public static final int action_bar_activity_content=0x7f050015;
         public static final int action_bar_container=0x7f05001b;
@@ -1093,7 +1093,8 @@ containing a value of this type.
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
         public static final int button1=0x7f05003d;
-        public static final int button2=0x7f050052;
+        public static final int button2=0x7f050045;
+        public static final int button3=0x7f050046;
         public static final int checkbox=0x7f05002d;
         public static final int collapseActionView=0x7f05000d;
         public static final int default_activity_button=0x7f050028;
@@ -1109,7 +1110,7 @@ containing a value of this type.
         public static final int icon=0x7f05002a;
         public static final int ifRoom=0x7f05000a;
         public static final int image=0x7f050027;
-        public static final int imageButton1=0x7f050043;
+        public static final int imageButton1=0x7f050041;
         public static final int imageView1=0x7f05003c;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f050029;
@@ -1120,7 +1121,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
-        public static final int scrollView1=0x7f05003f;
+        public static final int scrollView1=0x7f050043;
         public static final int search_badge=0x7f050032;
         public static final int search_bar=0x7f050031;
         public static final int search_button=0x7f050033;
@@ -1138,20 +1139,20 @@ containing a value of this type.
         public static final int split_action_bar=0x7f05001e;
         public static final int submit_area=0x7f050039;
         public static final int tabMode=0x7f050002;
-        public static final int textView1=0x7f05003e;
-        public static final int textView10=0x7f05004f;
-        public static final int textView11=0x7f05004b;
-        public static final int textView12=0x7f05004e;
-        public static final int textView13=0x7f05004c;
-        public static final int textView14=0x7f05004d;
-        public static final int textView2=0x7f050045;
-        public static final int textView3=0x7f050046;
-        public static final int textView4=0x7f050047;
-        public static final int textView5=0x7f050049;
-        public static final int textView6=0x7f050051;
-        public static final int textView7=0x7f050048;
-        public static final int textView8=0x7f050050;
-        public static final int textView9=0x7f05004a;
+        public static final int textView1=0x7f05003f;
+        public static final int textView10=0x7f050051;
+        public static final int textView11=0x7f050049;
+        public static final int textView12=0x7f050052;
+        public static final int textView13=0x7f050048;
+        public static final int textView14=0x7f050053;
+        public static final int textView2=0x7f050047;
+        public static final int textView3=0x7f05004f;
+        public static final int textView4=0x7f05004d;
+        public static final int textView5=0x7f05004e;
+        public static final int textView6=0x7f05004a;
+        public static final int textView7=0x7f05004b;
+        public static final int textView8=0x7f05004c;
+        public static final int textView9=0x7f050050;
         public static final int title=0x7f05002b;
         public static final int top_action_bar=0x7f050020;
         public static final int up=0x7f050021;
@@ -1209,10 +1210,11 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_main=0x7f030018;
-        public static final int animales_perdidos=0x7f030019;
-        public static final int perfil_mascota=0x7f03001a;
-        public static final int perfil_usuario=0x7f03001b;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001c;
+        public static final int animales_encontrados=0x7f030019;
+        public static final int animales_perdidos=0x7f03001a;
+        public static final int perfil_mascota=0x7f03001b;
+        public static final int perfil_usuario=0x7f03001c;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001d;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 

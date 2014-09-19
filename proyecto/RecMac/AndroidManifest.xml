@@ -22,6 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="MainAnimalesEncontrados"></activity>
+        <activity android:name="MainAnimalesPerdidos"></activity>
+        <activity android:name="MainPerfilMascota"></activity>
+        <activity android:name="MainPerfilUsuario"></activity>
+        <activity android:name="MainPersonaEncon"></activity>
+        <activity android:name="MainReporteEncontrados"></activity>
     </application>
 
 </manifest>
